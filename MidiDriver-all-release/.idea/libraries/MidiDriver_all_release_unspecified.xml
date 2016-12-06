@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="MidiDriver-all-release-unspecified">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../app/build/intermediates/exploded-aar/MarkusKauppinen-midipianotest/MidiDriver-all-release/unspecified/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../app/build/intermediates/exploded-aar/MarkusKauppinen-midipianotest/MidiDriver-all-release/unspecified/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
